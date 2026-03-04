@@ -1,9 +1,6 @@
-[3336:22924:0304/104314.197:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[3336:17676:0304/104314.231:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[3336:22924:0304/104314.244:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[3336:22924:0304/104316.297:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[19588:22412:0304/104317.842:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4E2B2C6B681C504F07D14D89484C9E83 will be ignored
-[15052:15020:0304/104355.760:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-30FE7361899D4BC584175DF91FA9CD6A will be ignored
-[9744:12076:0304/104643.352:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame A-A57F7DC02C8CE96E2DFC5CE04D5B9E1B will be ignored
-[17280:7332:0304/105124.289:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame D-744D79AAFF6B69B3E500F73614B935DB will be ignored
-[3336:22924:0304/122311.595:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[22264:19768:0304/125613.715:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[22264:13236:0304/125613.755:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[22264:19768:0304/125613.765:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[22264:19768:0304/125616.013:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[1632:5424:0304/125617.164:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-31D09EE4CCCA545244EEB8D642EEF87D will be ignored
+[22264:19768:0304/140103.807:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
